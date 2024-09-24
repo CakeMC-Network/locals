@@ -1,0 +1,6 @@
+identifier=eng_ENG
+name=english
+global_name=english
+
+# locals begin here:
+hello_world=Hello, World!
