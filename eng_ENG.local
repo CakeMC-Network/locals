@@ -5,5 +5,25 @@ global_name=english
 # locals begin here:
 hello_world=Hello, World!
 
-# permissions
-no_permissions=§cNo permissions to execute action: {0}
+# General
+no_permissions=&cInsufficient permissions to execute action: {0}
+prefix_cloud=&8&l[&3&lAER&f&lION&8&l]
+prefix_server=&8&l[&6&lSERVER&8&l]
+prefix_proxy=&8&l[&9&lPROXY&8&l]
+prefix_network=&8&l[&c&lCAKE&f&lMC&8&l]
+
+# Aerion
+connected_to_fallback=&ayou are now connected to a lobby service
+sending_to_fallback=&aconnecting to a lobby service...
+
+# Drivers
+prefix_driver=&8&l[&2&lDRIVER&8&l]
+current_driver=connected to driver {0}
+
+# Permissions System
+prefix_permissions=&8&l[&4&lPERMS&8&l]
+permission_updated=?
+permission_set=?
+
+# Punishment Suit
+prefix_punishment=&c&npunish&r
