@@ -6,4 +6,4 @@ global_name=english
 hello_world=Hello, World!
 
 # permissions
-no_permissions=§cNo permissions to execute action
+no_permissions=§cNo permissions to execute action: {0}
