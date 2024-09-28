@@ -28,3 +28,6 @@ permission_set=?
 
 # Punishment Suit
 prefix_punishment=&c&npunish&r
+
+# config
+config_command_usage=please use /config <position-key>
