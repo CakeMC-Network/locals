@@ -7,6 +7,9 @@ hello_world=Hello, World!
 
 # General
 no_permissions=&cInsufficient permissions to execute action: {0}
+cant_find_player=§ccan't find player with name '{0}'
+cant_parse_number=§ccan't parse number '{0}'
+already_exists=element '{0}' already exists!
 
 # prefix
 prefix_cloud=&8&l[&3&lAER&f&lION&8&l]
@@ -24,6 +27,35 @@ current_driver=connected to driver {0}
 
 # Permissions System
 prefix_permissions=&8&l[&4&lPERMS&8&l]
+cant_find_group=§ccan't find group with name '{0}'
+updated_suffix=§7Successfully updated suffix of group '{0}'
+updated_prefix=§7Successfully updated prefix of group '{0}'
+
+removed_from=§7Successfully removed '{0}' from '{1}'
+added_to=§7Successfully added '{0}' to '{1}'
+created_group=§7Successfully created group '{0}'
+deleted_group=§7Successfully deleted group '{0}'
+
+does_not_have_permission=element '{0}' does not have the permission '{1}'
+already_has_permission=element '{0}' already has the permission '{1}'
+
+updated_players_group=Updated {0}'s group to '{1}'
+reset_player=Resetted {0} permissions entries!
+
+permissions_player_info_1=§c{0}'s permission info:
+permissions_player_info_2=§7Group: §c{0}
+permissions_player_info_3=§cPlayer permissions:
+permissions_player_info_4=§7- §c{0}
+
+permissions_group_info_1=§c{0}'s permission info:
+permissions_group_info_2=§7Name: §c{0}
+permissions_group_info_3=§7Id: §c{0}
+permissions_group_info_4=§7Sort-Id: §c{0}
+permissions_group_info_5=§7Prefix: §c{0}
+permissions_group_info_6=§7Suffix: §c{0}
+permissions_group_info_7=§7Color: {0}■
+permissions_group_info_8=§7Permissions: §c[{0}]
+
 permissions_command_user_usage_1=§7/perms user <name> set <group>
 permissions_command_user_usage_2=§7/perms user <name> set <group> <time>
 permissions_command_user_usage_3=§7/perms user <name> add <permission>
@@ -31,13 +63,13 @@ permissions_command_user_usage_4=§7/perms user <name> remove <permission>
 permissions_command_user_usage_5=§7/perms user <name> reset
 permissions_command_user_usage_6=§7/perms user <name>
 
-permissions_command_group_usage=1=§7/perms group <group> create
-permissions_command_group_usage=2=§7/perms group <group> delete
-permissions_command_group_usage=3=§7/perms group <group> add <permission>
-permissions_command_group_usage=4=§7/perms group <group> remove <permission>
-permissions_command_group_usage=5=§7/perms group <group> prefix <prefix>
-permissions_command_group_usage=6=§7/perms group <group> suffix <prefix>
-permissions_command_group_usage=7=§7/perms group <group>
+permissions_command_group_usage_1=§7/perms group <group> create
+permissions_command_group_usage_2=§7/perms group <group> delete
+permissions_command_group_usage_3=§7/perms group <group> add <permission>
+permissions_command_group_usage_4=§7/perms group <group> remove <permission>
+permissions_command_group_usage_5=§7/perms group <group> prefix <prefix>
+permissions_command_group_usage_6=§7/perms group <group> suffix <prefix>
+permissions_command_group_usage_7=§7/perms group <group>
 
 # Punishment Suit
 prefix_punishment=&c&npunish&r
