@@ -24,8 +24,20 @@ current_driver=connected to driver {0}
 
 # Permissions System
 prefix_permissions=&8&l[&4&lPERMS&8&l]
-permission_updated=?
-permission_set=?
+permissions_command_user_usage_1=§7/perms user <name> set <group>
+permissions_command_user_usage_2=§7/perms user <name> set <group> <time>
+permissions_command_user_usage_3=§7/perms user <name> add <permission>
+permissions_command_user_usage_4=§7/perms user <name> remove <permission>
+permissions_command_user_usage_5=§7/perms user <name> reset
+permissions_command_user_usage_6=§7/perms user <name>
+
+permissions_command_group_usage=1=§7/perms group <group> create
+permissions_command_group_usage=2=§7/perms group <group> delete
+permissions_command_group_usage=3=§7/perms group <group> add <permission>
+permissions_command_group_usage=4=§7/perms group <group> remove <permission>
+permissions_command_group_usage=5=§7/perms group <group> prefix <prefix>
+permissions_command_group_usage=6=§7/perms group <group> suffix <prefix>
+permissions_command_group_usage=7=§7/perms group <group>
 
 # Punishment Suit
 prefix_punishment=&c&npunish&r
