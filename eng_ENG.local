@@ -33,3 +33,4 @@ prefix_punishment=&c&npunish&r
 # config
 config_command_usage=§7please use /config <position-key>
 positionkey_not_found=§cInvalid position key for {0}
+position_set=§7position for {0} was set!
