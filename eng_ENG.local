@@ -12,7 +12,7 @@ no_permissions=&cInsufficient permissions to execute action: {0}
 prefix_cloud=&8&l[&3&lAER&f&lION&8&l]
 prefix_server=&8&l[&6&lSERVER&8&l]
 prefix_proxy=&8&l[&9&lPROXY&8&l]
-prefix_network=&8&l[&c&lCAKE&f&lMC&8&l]
+prefix=&8&l[&c&lCAKE&f&lMC&8&l]
 
 # Aerion
 connected_to_fallback=&ayou are now connected to a lobby service
@@ -34,3 +34,10 @@ prefix_punishment=&c&npunish&r
 config_command_usage=§7please use /config <position-key>
 positionkey_not_found=§cInvalid position key for {0}
 position_set=§7position for {0} was set!
+
+# lobby
+navigation_title=&c▶ &7Navigator
+lobby_switcher_title=&c▶ &7Lobbies
+profile_title=&c▶ &7Profile
+private_server_title=&c▶ &7Private server
+cosmetics_title=&c▶ &7Cosmetics
