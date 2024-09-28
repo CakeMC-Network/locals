@@ -7,7 +7,8 @@ hello_world=Hello, World!
 
 # General
 no_permissions=&cInsufficient permissions to execute action: {0}
-positionkey_not_found=§cInvalid position key for {0}
+
+# prefix
 prefix_cloud=&8&l[&3&lAER&f&lION&8&l]
 prefix_server=&8&l[&6&lSERVER&8&l]
 prefix_proxy=&8&l[&9&lPROXY&8&l]
@@ -30,4 +31,5 @@ permission_set=?
 prefix_punishment=&c&npunish&r
 
 # config
-config_command_usage=please use /config <position-key>
+config_command_usage=§7please use /config <position-key>
+positionkey_not_found=§cInvalid position key for {0}
