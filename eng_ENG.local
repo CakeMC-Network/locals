@@ -88,4 +88,11 @@ profile_title=&c▶ &7Profile
 private_server_title=&c▶ &7Private server
 cosmetics_title=&c▶ &7Cosmetics
 
+p_server_title_0=§7initializing server
+p_server_title_1=§7loading world
+p_server_title_2=§7setting up instance
+p_server_title_3=§7cleaning up
+p_server_title_4=§aconnecting...
+error_while_starting_pserver=§cThrere was a error while starting your private-server!
+
 inventory_language=§7•§8● §7Language
