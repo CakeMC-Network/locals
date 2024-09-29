@@ -91,6 +91,7 @@ cosmetics_title=&c▶ &7Cosmetics
 p_server_already_running=§7Your private server is already online!
 p_server_is_not_running=§7Your private server is not online!
 p_server_has_been_stopped=§7Your private server has been stopped!
+p_server_will_be_stopped=§7Your private server will be stopped...
 
 p_server_title_0=§7initializing server
 p_server_title_1=§7loading world
