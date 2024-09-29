@@ -30,6 +30,7 @@ prefix_permissions=&8&l[&4&lPERMS&8&l]
 cant_find_group=§ccan't find group with name '{0}'
 updated_suffix=§7Successfully updated suffix of group '{0}'
 updated_prefix=§7Successfully updated prefix of group '{0}'
+updated_color=§7Successfully updated color of group '{0}'
 
 removed_from=§7Successfully removed '{0}' from '{1}'
 added_to=§7Successfully added '{0}' to '{1}'
@@ -69,7 +70,8 @@ permissions_command_group_usage_3=§7/perms group <group> add <permission>
 permissions_command_group_usage_4=§7/perms group <group> remove <permission>
 permissions_command_group_usage_5=§7/perms group <group> prefix <prefix>
 permissions_command_group_usage_6=§7/perms group <group> suffix <prefix>
-permissions_command_group_usage_7=§7/perms group <group>
+permissions_command_group_usage_7=§7/perms group <group> color <color>
+permissions_command_group_usage_8=§7/perms group <group>
 
 # Punishment Suit
 prefix_punishment=&c&npunish&r
@@ -85,3 +87,5 @@ lobby_switcher_title=&c▶ &7Lobbies
 profile_title=&c▶ &7Profile
 private_server_title=&c▶ &7Private server
 cosmetics_title=&c▶ &7Cosmetics
+
+inventory_language=§7•§8● §7Language
