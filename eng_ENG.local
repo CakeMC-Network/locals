@@ -10,6 +10,7 @@ no_permissions=&cInsufficient permissions to execute action: {0}
 cant_find_player=§ccan't find player with name '{0}'
 cant_parse_number=§ccan't parse number '{0}'
 already_exists=element '{0}' already exists!
+invalid_input=§cinvalid input please try again.
 
 # prefix
 prefix_cloud=&8&l[&3&lAER&f&lION&8&l]
@@ -92,8 +93,10 @@ p_server_already_running=§7Your private server is already online!
 p_server_is_not_running=§7Your private server is not online!
 p_server_has_been_stopped=§7Your private server has been stopped!
 p_server_will_be_stopped=§7Your private server will be stopped...
-p_server_start_button=§aStart
-p_server_stop_button=§cStop
+p_server_start_button=§7➟ §aStart
+p_server_stop_button=§7➟ §cStop
+p_server_online_button=§7➟ §aONLINE
+p_server_offline_button=§7➟ §cOFFLINE
 
 p_server_title_0=§7initializing server
 p_server_title_1=§7loading world
