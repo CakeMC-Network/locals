@@ -16,7 +16,7 @@ invalid_input=§cinvalid input please try again.
 prefix_cloud=&8&l[&3&lAER&f&lION&8&l]
 prefix_server=&8&l[&6&lSERVER&8&l]
 prefix_proxy=&8&l[&9&lPROXY&8&l]
-perfix_wildcard=&8&l[&9&lWILDCARD&8&l]
+prefix_wildcard=&8&l[&9&lWILDCARD&8&l]
 prefix=&8&l[&c&lCAKE&f&lMC&8&l]
 
 # Aerion
