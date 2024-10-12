@@ -107,3 +107,8 @@ p_server_title_4=§aconnecting...
 error_while_starting_pserver=§cThrere was a error while starting your private-server!
 
 inventory_language=§7•§8● §7Language
+
+# wildcard
+wildcard_register_command_wrong_usage=§cPlease use /register <Token>
+wildcard_register_successful=§aYou successfully activated your wildcard
+wildcard_register_code_invalid=§cThe token is invalid!
