@@ -12,6 +12,11 @@ cant_parse_number=§ccan't parse number '{0}'
 already_exists=element '{0}' already exists!
 invalid_input=§cinvalid input please try again.
 
+inventory_next_page=§7➟ §6Next Page
+inventory_prev_page=§7➟ §6Previous Page
+inventory_filter=§7➟ §6Filter
+inventory_search=§7➟ §6Search
+
 # prefix
 prefix_cloud=&8&l[&3&lAER&f&lION&8&l]
 prefix_server=&8&l[&6&lSERVER&8&l]
