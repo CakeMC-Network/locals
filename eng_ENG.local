@@ -98,6 +98,25 @@ p_server_start_button=§7➟ §aStart
 p_server_stop_button=§7➟ §cStop
 p_server_online_button=§7➟ §aONLINE
 p_server_offline_button=§7➟ §cOFFLINE
+p_server_list_button=§7➟ §6Server-List
+p_server_settings_button=§7➟ §6Settings
+p_server_addons_button=§7➟ §6Addons
+p_server_world_button=§7➟ §6Worlds
+p_server_connect_button=§7➟ §aJoin
+
+p_server_filter_all=§7→ {0}all
+p_server_filter_online=§7→ {0}online
+p_server_filter_most=§7→ {0}most players
+p_server_filter_least=§7→ {0}least players
+
+p_server_button_list_desc=§elist of all global private-server
+p_server_button_start_desc=§epress to §astart§e your custom private-server!
+p_server_button_stop_desc=§epress to §cstop§e your private-server
+p_server_button_status_desc=§epress to get more informations about your server!
+p_server_button_settings_desc=§epress to make changes to the settings of your server!
+p_server_button_addons_desc=§epress to open the addons catalog!
+p_server_button_world_desc=§epress to select the world of your private-server!
+p_server_button_connect_desc=§epress to join your own private-server.
 
 p_server_title_0=§7initializing server
 p_server_title_1=§7loading world
@@ -107,6 +126,15 @@ p_server_title_4=§aconnecting...
 error_while_starting_pserver=§cThrere was a error while starting your private-server!
 
 inventory_language=§7•§8● §7Language
+inventory_games=§7•§8● §7Games
+inventory_pserver=§7•§8● §7Private-Server
+inventory_pserver_list=§7•§8● §7Server-List
+inventory_pserver_list_search=§7•§8● §7Search: §a{0} 
+
+item_bedwars_name=§c§lBEDWARS
+items_bedwars_desc=§7Protect your §abed§7 and destroy others!
+items_bedwars_rightclick=§aTeleport to the sign-wall
+items_bedwars_leftclick=§aQuickJoin the next best round!
 
 # wildcard
 wildcard_register_command_wrong_usage=§cPlease use /register <Token>
